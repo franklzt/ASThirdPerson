@@ -1,0 +1,1 @@
+Windows\ASThirdPerson.exe -as-generate-precompiled-data 

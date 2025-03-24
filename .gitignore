@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+Content/*
+Plugins/AngelScriptAPIDoc/*
+Plugins/Electron913898e3acc7V14/*
+Docs/*
