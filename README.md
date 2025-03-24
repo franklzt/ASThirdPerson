@@ -1,5 +1,6 @@
 # ASThirdPerson
-AngelScript code example of ThirdPerson Template
+AngelScript code example of ThirdPerson Template <br>
+第三人称项目的 Agnelscript 版本
 
 This is an example of using angelscript to code one character class, mainly ported from third person character c++ template.
 
